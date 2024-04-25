@@ -15,21 +15,7 @@ I'm a passionate Web Developer from Morocco. I specialize in creating sleek and 
 - Deep Learning
 - Data Science
 
-## 🚀 Projects
 
-### E-Commerce Website for Restaurant
-
-A dynamic e-commerce website for a restaurant, built using Spring Boot for the backend and React.js for the frontend. The project allows users to browse the menu, place orders, and track delivery status.
-
-**Screenshots:**
-![Home Page](https://github.com/brahmdi/brahmdi/assets/96790699/d9421982-db28-4739-ae79-108ca4768e24)
-![Product Catalog](https://github.com/brahmdi/brahmdi/assets/96790699/df79f1cd-c055-4d0e-a0a9-f8a9203fd80c)
-![Order Checkout](https://github.com/brahmdi/brahmdi/assets/96790699/e5606946-2850-447a-8d8a-888690e9a9ee)
-
-*Captions:*
-1. The main landing page showcasing featured items and navigation.
-2. A snapshot of the product catalog, allowing users to browse and explore various menu items.
-3. Illustration of the order checkout process.
 
 ## 📫 How to reach me
 
